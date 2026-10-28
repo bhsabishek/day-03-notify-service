@@ -1,0 +1,8 @@
+.env
+*.pem
+*.key
+*.out
+*.test
+notify-service
+.env.local
+.env.production
